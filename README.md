@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Izroth404 a.k.a AVIRUP PAL
 - 👀 I’m interested in coding, sudoku and animes
-- 🌱 I’m currently learning DSA, CP, crpytography
+- 🌱 I’m currently learning DSA, CP, how to live peacefully
 - 💞️ I’m looking to collaborate on ... currently free
 - 📫 How to reach me ...<a href="https://www.linkedin.com/in/avirup-pal-6323b0192/"><img src="https://img.shields.io/badge/-Connect-0077B5?style=social&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/avirup-pal-6323b0192/" alt="LinkedIn Badge"></a>      
 
