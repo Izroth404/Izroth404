@@ -2,7 +2,7 @@
  <h3 align="center">A small boy with big dreams from India</h3>
 <br>
 <br>
-<h1>About ME!!>
+<h1>About ME!!</h1>
 
 - 👋 Hi, I’m @Izroth404 a.k.a AVIRUP PAL
 - 👀 I’m interested in coding, sudoku and animes
