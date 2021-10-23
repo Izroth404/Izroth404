@@ -11,7 +11,7 @@
 <br>
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Izroth404&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=Izroth404&label=Profile%20views&color=0e75b6&style=flat" alt="Izroth404" /> </p></h1>
+
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Izroth404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -24,4 +24,7 @@
 <!---
 Izroth404/Izroth404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Izroth404&label=Profile%20views&color=0e75b6&style=flat" alt="Izroth404" /> </p></h1>
+
 --->
