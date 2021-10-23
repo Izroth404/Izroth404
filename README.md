@@ -8,3 +8,15 @@
 Izroth404/Izroth404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+</p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Izroth404&show_icons=true&theme=radical&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515"  /></a> </p>
+
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Izroth404&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<div align="center">
+
+### Show some ❤️ by starring some of the repositories!
+
+</div>
