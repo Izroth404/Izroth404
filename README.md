@@ -1,5 +1,8 @@
 <h1 align="center">< Hey,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izroth404 a.k.a Avirup Pal</a> />
  <h3 align="center">A small boy with big dreams from India</h3>
+<br>
+<br>
+<h1>About ME!!>
 
 - 👋 Hi, I’m @Izroth404 a.k.a AVIRUP PAL
 - 👀 I’m interested in coding, sudoku and animes
