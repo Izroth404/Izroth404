@@ -1,4 +1,4 @@
-<h1 align="center">< Hey,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izroth404 a.k.a Avirup Pal</a> />
+<h1 align="center">Hey,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izroth404 a.k.a Avirup Pal</a>
  <h3 align="center">A small boy with big dreams from India</h3>
 <br>
 <br>
