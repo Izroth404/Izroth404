@@ -1,5 +1,5 @@
 <h1 align="center">Hey,<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Izroth404 a.k.a Avirup Pal</a>
- <h3 align="center">Pain is Eternal</h3>
+ <h3 align="center">I love to code lazily</h3>
 <br>
 <br>
 <h1>About ME!!</h1>
